@@ -1,30 +1,18 @@
-# cxh-fanyi
+# 文 艺 复 兴
 
-> A Vue.js project
+"Renaissance": 我们时代的主流与非主流 -带带大师兄
 
-## Build Setup
+## 特点
+* 支持两种翻译功能
+  * 抽象翻译， 将文字翻译成以文字+emoji格式的形式
+  * 火星文翻译，将文字和句子翻译成你的个性需求
+  
+  
+## 使用说明
+* 与一般翻译器使用功能类似
+* 将文字输入左边对话框-->点击翻译-->出现结果后点击右边对话框灰色区域便可
 
-``` bash
-# install dependencies
-npm install
+## 词库贡献者
+* 抽象话词库
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* 火星文词库
