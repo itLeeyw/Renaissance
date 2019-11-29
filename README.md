@@ -16,3 +16,5 @@
 * 抽象话词库
 
 * 火星文词库
+
+> 如果您有更多的想法可以再[这里](https://docs.qq.com/sheet/DZnlZZVJvQXNDeUJU?tab=BB08J2&c=H12A0A0)添加更多的词语
